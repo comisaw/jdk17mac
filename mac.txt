@@ -1,0 +1,2 @@
+https://download.oracle.com/java/17/latest/jdk-17_macos-aarch64_bin.dmg
+https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.dmg
